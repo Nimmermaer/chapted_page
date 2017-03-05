@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2017-02-25T21:59:16Z" product-name="chapted_page">
+        <header/>
+        <body>
+            <trans-unit id="tx_chapted_domain_model_player">
+                <source>Player</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

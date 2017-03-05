@@ -1,0 +1,41 @@
+tx_gridelements.setup.grid-advertise {
+    title = LLL:EXT:chapted_page/Resources/Private/Language/Gridelements/locallang.xlf:grid-advertise.title
+    description = LLL:EXT:chapted_page/Resources/Private/Language/Gridelements/locallang.xlf:grid-advertise.description
+   iconIdentifier = mimetypes-x-backend_layout
+
+    config {
+          colCount = 3
+          rowCount = 2
+          rows {
+              1 {
+                  columns {
+                      1 {
+                          name = phone
+                          rowspan = 2
+                          colPos = 24
+                      }
+                      2 {
+                          name = left top
+                          colPos = 20
+                      }
+                      3 {
+                          name = right top
+                          colPos = 21
+                      }
+                  }
+              }
+              2 {
+                  columns {
+                      1 {
+                          name = left bottom
+                          colPos = 22
+                      }
+                      2 {
+                          name = right bottom
+                          colPos = 23
+                      }
+                  }
+              }
+          }
+    }
+}

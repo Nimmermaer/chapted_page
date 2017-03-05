@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:chapted_page/Configuration/TypoScript/Constants" extensions="ts">

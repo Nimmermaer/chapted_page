@@ -89,7 +89,7 @@ page {
         10 = TEXT
         10 {
             field = title
-            noTrimWrap = |<title> | &#124; Fischerprüfung Laufen</title>|
+            noTrimWrap = |<title> | </title>|
         }
         990 < lib.canonical
     }
